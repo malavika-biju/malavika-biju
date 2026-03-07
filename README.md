@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Malavika Biju 👋
 
-<!--
-**malavika-biju/malavika-biju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BCA student interested in Full Stack Development.
 
-Here are some ideas to get you started:
+Tech Stack:
+Python | Django | JavaScript | HTML | CSS | MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+• Eterna Cards – Wedding Card Booking System
+• Catalyst – College Placement Management System
+
+Currently learning:
+Node.js and React
